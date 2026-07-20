@@ -1,9 +1,11 @@
-# SQL Practice — Chinook Music Store Database
+# SQL Practice — Chinook Database
 
-Practiced SQL joins, group by, aggregates, and having clauses 
-using the Chinook sample database (digital music store data) 
-in MySQL Workbench.
+Practiced SQL joins, aggregation, self-joins, and filtering 
+using the Chinook sample music store database.
 
-Tools: MySQL Workbench
+**Concepts covered:** Multi-table joins, GROUP BY + HAVING, 
+self-joins (employee hierarchy), aggregate functions.
+
+**Tools:** MySQL Workbench
 
 ![ER Diagram](er-diagram.png)
